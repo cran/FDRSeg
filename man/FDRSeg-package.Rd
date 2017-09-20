@@ -16,8 +16,8 @@
 \tabular{ll}{
 Package: \tab FDRSeg\cr
 Type: \tab Package\cr
-Version: \tab 1.0-1\cr
-Date: \tab 2015-07-28\cr
+Version: \tab 1.0-3\cr
+Date: \tab 2017-09-20\cr
 License: \tab The GNU General Public License\cr
 }
 Index:

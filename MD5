@@ -1,11 +1,11 @@
-d0927e4cd8ef4ebf46c7310544258196 *DESCRIPTION
+1ab0387c13e1aef53b4959a648f8dba5 *DESCRIPTION
 202adb9282d0540b684a596d55c2bb4a *NAMESPACE
 f3361687177d3c5af52f82f684396c1e *R/RcppExports.R
 8e3484f45868fc4843ed83e4199367f5 *R/main.R
 00243a599e6a94076b12c17ad002f9f8 *R/simulQuantile.R
 9410537e9f6844f919377f95a2522ae9 *R/utility.R
-b18760f9068e1e1a2b31b29b5901c1c6 *build/partial.rdb
-eabbbf311134a1b828cf59247d1ae56d *man/FDRSeg-package.Rd
+b485a03c20e323222be0db3d7b0c59a5 *build/partial.rdb
+87cc1a8dcb0a3d84aaf98e469602efb2 *man/FDRSeg-package.Rd
 38e6dfe53606c1edd1ac88148c655f59 *man/computeFdp.Rd
 186337f034898d92ccba4e322de5debc *man/dfdrseg.Rd
 211518f130cc9e8cf387168aec1397d7 *man/evalStepFun.Rd
